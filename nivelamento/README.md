@@ -32,3 +32,5 @@
 * POST
 * PUT
 * DELETE
+
+### Tratando Execeçoes 
