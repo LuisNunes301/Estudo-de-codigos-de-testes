@@ -1,9 +1,21 @@
+markdown
 
-# Mini projeto, usado para estudo de spring boot, sqlite
+Verify
+Edit
+Copy code
+# Spring Boot and SQLite Mini Project
+=====================================
 
-# Uso das depencencias de PUT,GET,POST,DELETE ( cruzadão) com java e spring boot
-# Alguns tratamentos de execeçoes para entendimento previo.
+## Overview
 
+This project is a study on using Spring Boot with SQLite, focusing on CRUD (Create, Read, Update, Delete) operations using HTTP methods (PUT, GET, POST, DELETE).
 
+## Objectives
 
-## By Luis in the past, for Luis in the future
+* Understand the basics of Spring Boot and its integration with SQLite
+* Implement CRUD operations using Java and Spring Boot
+* Handle exceptions and errors effectively
+
+## Author's Note
+
+By Luis, for Luis in the future.
