@@ -42,3 +42,13 @@ public class CalculadoraTest {
 ### End-to-end tesing/ UI testing
 ### Integrations( codigo  é testado sem mockar acessos ao bd e/ou https)
 ### Unit test (muitos, rapidos, sem http,sem bd)
+
+### Nomeclatura para testes
+#### test[SytenUnderTest]_[Condition or State change]_[Expected Result]
+
+### BDD
+#### Behavior Driven Development
+#### Exemplo de estrutura de teste BDD
+#### Given - Contexto inicial do cenario , 1 ou mais casos
+#### When - dispara o gatilho do inicio do cenario
+#### Then - avaliação do resultado
